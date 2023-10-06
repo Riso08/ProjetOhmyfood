@@ -11,14 +11,6 @@
 /* Animation d'appararition progressive des menus */
 /****main-contenair****/
 /*****Header*****/
-/***footer Mobile***/
-.contact-link {
-  color: #ffffff;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/***Footer Desktop***/
 @media screen and (min-width: 1024px) {
   .Logo {
     padding: 12px 0px 12px 0px;

@@ -15,14 +15,6 @@
 /* Animation d'appararition progressive des menus */
 /****main-contenair****/
 /*****Header*****/
-/***footer Mobile***/
-.contact-link {
-  color: #ffffff;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/***Footer Desktop***/
 body {
   margin: 0;
   padding: 0;
@@ -112,7 +104,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #F6F6F6;
-  border-radius: 12vw 12vw 0 0;
+  border-radius: 7.5vw 7.5vw 0 0;
   margin-top: -4em;
 }
 

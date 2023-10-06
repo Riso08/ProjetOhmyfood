@@ -15,14 +15,6 @@
 /* Animation d'appararition progressive des menus */
 /****main-contenair****/
 /*****Header*****/
-/***footer Mobile***/
-.contact-link {
-  color: #ffffff;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/***Footer Desktop***/
 /* Le loader */
 .loader-container {
   position: fixed;
